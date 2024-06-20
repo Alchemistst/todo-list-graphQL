@@ -1,0 +1,21 @@
+{
+  "name": "todo-list-graphql",
+  "version": "1.0.0",
+  "description": "Small project to showcase a basic CRUD using GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "javiermgc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "graphql": "^16.8.2",
+    "graphql-http": "^1.22.1",
+    "ruru": "^2.0.0-beta.13",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "prettier": "3.3.2"
+  }
+}
